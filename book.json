@@ -1,0 +1,12 @@
+{
+  "plugins": ["richquotes", "disqus", "exercises", "quizzes"],
+    
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "agileforce-lightning-tutorial"
+     },
+    "richquotes": {
+      "todos": true 
+    }
+  }
+}
